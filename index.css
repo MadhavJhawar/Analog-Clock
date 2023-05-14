@@ -1,5 +1,6 @@
 #clockContainer
 {
+    
     position: relative;
     margin: auto;
     height: 40vw;
@@ -17,25 +18,28 @@ background-size: 100%;
 }
 #hour
 {
-width: 1%;
-height: 12%;
-top: 16%;
-left: 49.55%;
+width: 1.5%;
+height: 21%;
+top: 28.5%;
+left: 49.5%;
 opacity: 0.8;
+
 }
 #minute
 {
-    width: 0.5%;
-    height: 18%;
-    top: 11%;
+    width: 1.5%;
+    height: 33%;
+    top: 17%;
     left: 49.8%;
-    opacity: 0.8;    
+    opacity: 0.8;
+      
 }
 #second
 {
-    width: .3%;
-    height: 21%;
-    top: 8%;
+    width: .5%;
+    height: 32%;
+    top: 18%;
     left: 49.8%;
     opacity: 1;
+   
 }
